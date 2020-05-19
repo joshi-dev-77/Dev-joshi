@@ -1,0 +1,73 @@
+*{
+	font-family:  'Fjalla One', sans-serif;
+}
+li{
+	list-style: none;
+	display: inline;
+	margin: 100px;
+	font-size: 19px;
+}	
+li a{
+	color: lightblue;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+}
+header{
+	background-color: black;
+    padding: 6px; 
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+li a:hover{
+	color: green;
+	text-decoration: none;
+	transition: 0.3s;
+}
+section{
+	margin-left: 50px
+}
+h1{
+	color: red;
+	font-size: 35px;
+	text-align: center;
+	text-shadow: 5px;
+}	
+body{
+	background: url(1975.jpg) no-repeat;
+	background-size: cover;
+}
+h3{
+	font-size: 23px;
+	margin-right:100px;
+	margin-left:80px;
+	color: black;
+	margin-bottom: 10px;
+}
+hr{
+	padding: 2px;
+	background: black;
+	border: black;
+	width: 85%;
+	margin-bottom: 20px;
+}
+img{
+	border-radius: 03%;
+	margin-right: 4px; 
+}
+a{
+	text-decoration: none;
+	font-size: 20px;
+	text-align: right;
+
+}
+a:hover{
+	color: red;
+	transition: .7s;
+}
+div{
+	color: black;
+	padding: 10px;
+	text-align: center;
+	font-size: 20px;
+}
